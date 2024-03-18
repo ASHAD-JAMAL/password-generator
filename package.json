@@ -1,6 +1,6 @@
 {
   "name": "passwordgen",
-  "homepage": "https://ashad-jamal.github.io/PasswordGenerator/",
+  "homepage": "https://ashad-jamal.github.io/password-generator/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
